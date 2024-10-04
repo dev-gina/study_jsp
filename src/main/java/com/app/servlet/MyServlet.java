@@ -53,6 +53,10 @@ public class MyServlet extends HttpServlet {
 //		
 //		football = request.getParameter("football");
 //		basketball = request.getParameter("basketball");
+		 
+		 
+		 
+		
 //		baseball = request.getParameter("baseball");
 //		
 //		if(football != null) {
